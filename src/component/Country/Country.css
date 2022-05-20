@@ -1,0 +1,12 @@
+.country{
+    margin:20px;
+    background-color: rgba(62, 0, 178, 0.84);
+    padding: 20px;
+    border: 6px solid rgb(58, 236, 242);
+    border-radius: 20px;
+    color: blanchedalmond;
+
+}
+.country img{
+    width: 150px;
+}
